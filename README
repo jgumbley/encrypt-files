@@ -1,0 +1,7 @@
+These files have been prepared for the NTA test team.
+
+There is a hosts file which will allow access to the admin pages on Staging.
+
+Note that testing of public pages should go ahead on production.
+
+
